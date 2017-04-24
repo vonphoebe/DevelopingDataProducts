@@ -1,7 +1,7 @@
 Your Shiny Application
  Basic DataTable of House Sales in King County, USA
- https://vonphoebe.shinyapps.io/kingcounty/
+ <https://vonphoebe.shinyapps.io/kingcounty/>
  
  Your Reproducible Pitch Presentation
- http://rpubs.com/vonphoebe/DDP_ShinyApp
+ <http://rpubs.com/vonphoebe/DDP_ShinyApp>
  
